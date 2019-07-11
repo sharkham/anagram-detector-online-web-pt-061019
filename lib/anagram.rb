@@ -10,5 +10,5 @@ class Anagram
     word_array.each |w|
       w.split("")
     end
-  end 
+  end
 end
