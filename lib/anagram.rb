@@ -8,7 +8,7 @@ class Anagram
 
   def match(word_array)
     word_array.each |w|
-      ind_word_array = w.split("")
+      # ind_word_array = w.split("")
     end
   end
 end
